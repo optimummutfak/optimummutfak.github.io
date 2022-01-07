@@ -29,13 +29,14 @@
 .u-section-1 .u-text-1 {
   font-size: 3.75rem;
   background-image: none;
+  font-weight: normal;
   margin: 0 auto;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 2.25rem;
   font-weight: 300;
-  margin: 18px auto 0;
+  margin: 30px auto 0;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -152,7 +153,8 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-weight: normal;
+    margin-left: 39px;
+    margin-right: 39px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -180,6 +182,11 @@
 
   .u-section-1 .u-group-1 {
     margin-top: 23px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-1 {
@@ -243,6 +250,8 @@
 
   .u-section-1 .u-text-2 {
     font-size: 1.5rem;
+    margin-left: 11px;
+    margin-right: 11px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 358px;
