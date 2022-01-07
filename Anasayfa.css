@@ -3,25 +3,21 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1001px;
+  min-height: 1248px;
 }
 
 .u-section-1 .u-shape-1 {
-  width: 992px;
-  height: 841px;
-  margin: 60px auto 0;
-}
-
-.u-section-1 .u-image-1 {
-  width: 500px;
-  height: 450px;
-  margin: -823px auto 0 62px;
+  height: 652px;
+  background-image: none;
+  width: 1120px;
+  margin: 241px auto 0;
 }
 
 .u-section-1 .u-group-1 {
   width: 629px;
   min-height: 472px;
-  margin: -81px 0 60px auto;
+  height: auto;
+  margin: -435px 0 0 auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -29,9 +25,8 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 3.75rem;
   font-weight: 700;
-  margin: 105px 12px 0;
+  margin: 0 12px;
 }
 
 .u-section-1 .u-text-2 {
@@ -44,41 +39,35 @@
   margin: 20px 0 0;
 }
 
-@media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 899px;
-  }
+.u-section-1 .u-image-1 {
+  width: 500px;
+  height: 450px;
+  margin: -668px auto 60px 53px;
+}
 
+@media (max-width: 1199px) {
   .u-section-1 .u-shape-1 {
     width: 940px;
+  }
+
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 923px;
-  }
-
   .u-section-1 .u-shape-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 720px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 913px;
-  }
-
   .u-section-1 .u-shape-1 {
     width: 540px;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-left: 40px;
   }
 
   .u-section-1 .u-group-1 {
@@ -89,30 +78,33 @@
     padding-left: 10px;
     padding-right: 10px;
   }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 40px;
+  }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 804px;
+    min-height: 1104px;
   }
 
   .u-section-1 .u-shape-1 {
     width: 340px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 306px;
-    margin-left: 0;
-  }
-
   .u-section-1 .u-group-1 {
     width: 340px;
-    margin-top: 63px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 306px;
+    margin-left: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 289px;
