@@ -35458,11 +35458,15 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h3
         {
-        font-weight: 400;
-        font-size: 1.875rem;
+        font-size: 3rem;
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        text-transform: uppercase;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        font-family: Raleway,sans-serif;
         }
         h4
         {
