@@ -170,16 +170,19 @@
   .u-section-2 .u-text-1 {
     margin-left: 0;
     margin-right: 0;
+    transition-duration: 0.5s;
   }
 
   .u-section-2 .u-text-2 {
     margin-left: 0;
     margin-right: 0;
+    transition-duration: 0.5s;
   }
 
   .u-section-2 .u-text-3 {
     margin-right: 0;
     margin-left: 0;
+    transition-duration: 0.5s;
   }
 
   .u-section-2 .u-btn-1 {
