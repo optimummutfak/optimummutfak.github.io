@@ -1,7 +1,13 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 40px;
+  min-height: 30px;
 } .u-section-2 {
-  min-height: 585px;
+  min-height: 750px;
+}
+
+.u-section-2 .u-video-1 {
+  height: 715px;
+  margin-top: -16px;
+  margin-bottom: 52px;
 } .u-section-3 {
   min-height: 583px;
 }
