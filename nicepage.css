@@ -20922,7 +20922,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: Raleway,sans-serif;
 }
 h1,
 h2,
@@ -20951,7 +20951,7 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+  font-family: Raleway,sans-serif !important;
 }
 .u-custom-font.u-heading-font {
   font-family: Roboto,sans-serif !important;
@@ -35888,7 +35888,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-2 {
-    min-height: 421px;
+    min-height: 160px;
   }
 
   .u-footer .u-image-1 {
@@ -35898,7 +35898,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-3 {
-    min-height: 421px;
+    min-height: 101px;
+  }
+
+  .u-footer .u-social-icons-1 {
+    margin-top: 0;
   }
 
   .u-footer .u-text-3 {

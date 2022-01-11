@@ -934,6 +934,7 @@
 .u-section-7 .u-image-1 {
   min-height: 822px;
   background-image: url("images/black_parilla_flayer_1-2_1476395012.png");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-container-layout-1 {
@@ -949,7 +950,7 @@
 }
 
 .u-section-7 .u-text-1 {
-  margin: 0 -15px;
+  margin: 343px 51px 0 -15px;
 }
 
 @media (max-width: 1199px) {
@@ -958,13 +959,16 @@
   }
 
   .u-section-7 .u-image-1 {
-    background-position: 50% 50%;
     min-height: 678px;
   }
 
   .u-section-7 .u-layout-cell-2 {
     background-position: 50% 50%;
     min-height: 678px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-right: -15px;
   }
 }
 
@@ -1055,6 +1059,7 @@
 .u-section-8 .u-image-1 {
   min-height: 822px;
   background-image: url("images/parilla_grill_flayer_1-2_1476395038.png");
+  background-position: 50% 50%;
 }
 
 .u-section-8 .u-container-layout-2 {
@@ -1076,7 +1081,6 @@
   }
 
   .u-section-8 .u-image-1 {
-    background-position: 50% 50%;
     min-height: 678px;
   }
 }
