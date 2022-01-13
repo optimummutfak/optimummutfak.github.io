@@ -379,12 +379,12 @@
     margin-left: calc(((100% - 1140px) / 2) + 400px);
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 358px;
+  min-height: 445px;
 }
 
 .u-section-2 .u-table-1 {
-  height: 347px;
-  margin: 11px 0 0;
+  margin-top: 39px;
+  margin-bottom: 39px;
 }
 
 .u-block-dee1-4 {
@@ -489,23 +489,22 @@
   }
 
   .u-section-2 .u-table-1 {
+    height: 347px;
     margin-bottom: 11px;
-    margin-right: initial;
-    margin-left: initial;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 856px;
 }
 
 .u-section-3 .u-text-1 {
-  margin: 11px 0 0;
+  margin: 88px 0 0;
 }
 
 .u-section-3 .u-line-1 {
   height: 3px;
   transform-origin: left center 0px;
   width: 1140px;
-  margin: -21px auto 11px -11px;
+  margin: -22px auto 11px -11px;
 }
 
 @media (max-width: 1199px) {
