@@ -35702,10 +35702,18 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-nav-2 {
+  font-size: 1rem;
+}
+
+.u-header .u-nav-3 {
   font-size: 1.25rem;
-  font-weight: 700;
   width: 120px;
+  font-weight: 700;
   margin: 20px auto 0;
+}
+
+.u-header .u-nav-4 {
+  font-size: 1rem;
 }
 
 
