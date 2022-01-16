@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 666px;
+  min-height: 100vh;
 }
 
 .u-section-1 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 10px -18px 0;
+  margin: 60px -18px;
 }
 
 .u-section-1 .u-repeater-1 {
@@ -128,7 +128,6 @@
   }
 
   .u-section-1 .u-list-1 {
-    margin-top: 21px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -165,13 +164,13 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 968px;
+  min-height: 100vh;
 }
 
 .u-section-2 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 10px -18px 60px;
+  margin: 41px -18px;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -289,7 +288,6 @@
   }
 
   .u-section-2 .u-list-1 {
-    margin-bottom: 20px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -313,13 +311,13 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 666px;
+  min-height: 100vh;
 }
 
 .u-section-3 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 10px -18px 0;
+  margin: 60px -18px;
 }
 
 .u-section-3 .u-repeater-1 {
@@ -436,13 +434,13 @@
 }
 
 .u-section-4 .u-sheet-1 {
-  min-height: 968px;
+  min-height: 100vh;
 }
 
 .u-section-4 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 1px -18px 60px;
+  margin: 44px -18px;
 }
 
 .u-section-4 .u-repeater-1 {
@@ -561,13 +559,13 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 726px;
+  min-height: 100vh;
 }
 
 .u-section-5 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 40px -18px 0;
+  margin: 60px -18px;
 }
 
 .u-section-5 .u-repeater-1 {
@@ -686,13 +684,13 @@
 }
 
 .u-section-6 .u-sheet-1 {
-  min-height: 666px;
+  min-height: 100vh;
 }
 
 .u-section-6 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 20px -18px 0;
+  margin: 60px -18px;
 }
 
 .u-section-6 .u-repeater-1 {
@@ -813,13 +811,13 @@
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 656px;
+  min-height: 100vh;
 }
 
 .u-section-7 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 5px -18px 0;
+  margin: 60px -18px;
 }
 
 .u-section-7 .u-repeater-1 {
@@ -940,13 +938,13 @@
 }
 
 .u-section-8 .u-sheet-1 {
-  min-height: 646px;
+  min-height: 100vh;
 }
 
 .u-section-8 .u-list-1 {
   grid-template-rows: auto;
   width: 1177px;
-  margin: 0 -18px;
+  margin: 60px -18px;
 }
 
 .u-section-8 .u-repeater-1 {
