@@ -397,6 +397,10 @@
     margin-bottom: 7px;
   }
 
+  .u-section-1 .u-layout-cell-3 {
+    min-height: 834px;
+  }
+
   .u-section-1 .u-container-layout-4 {
     padding-top: 0;
     padding-left: 0;
@@ -566,7 +570,7 @@
 .u-section-2 .u-table-cell-28 {
   border-style: solid;
 } .u-section-3 {
-  min-height: 1139px;
+  min-height: 1066px;
 }
 
 .u-section-3 .u-text-1 {
@@ -584,7 +588,6 @@
   width: 481px;
   background-image: none;
   min-height: 158px;
-  height: auto;
   margin: 42px auto 0 calc(((100% - 1140px) / 2) + -127px);
 }
 
@@ -603,8 +606,7 @@
   width: 534px;
   background-image: none;
   min-height: 158px;
-  height: auto;
-  margin: -158px 0 42px auto;
+  margin: -158px 0 52px auto;
 }
 
 .u-section-3 .u-container-layout-2 {
@@ -638,12 +640,10 @@
 
   .u-section-3 .u-group-1 {
     margin-left: calc(((100% - 1140px) / 2) + 120px);
-    height: auto;
   }
 
   .u-section-3 .u-group-2 {
     margin-right: calc(((100% - 1140px) / 2) + 20px);
-    height: auto;
   }
 
   .u-section-3 .u-container-layout-2 {
@@ -699,20 +699,16 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-3 {
-    min-height: 500px;
-  }
-
   .u-section-3 .u-text-1 {
     width: auto;
-    margin-top: 53px;
+    margin-top: 76px;
     margin-right: -10px;
     margin-left: 450px;
   }
 
   .u-section-3 .u-line-1 {
     width: 340px;
-    margin-top: -3603px;
+    margin-top: -3602px;
     margin-right: auto;
   }
 
@@ -735,7 +731,7 @@
     min-height: 150px;
     margin-top: 110px;
     margin-right: 0;
-    margin-bottom: 51px;
+    margin-bottom: 60px;
   }
 
   .u-section-3 .u-text-2 {
@@ -1216,20 +1212,45 @@
     margin-bottom: 0;
   }
 
+  .u-section-7 .u-layout-cell-1 {
+    min-height: 681px;
+  }
+
+  .u-section-7 .u-container-layout-1 {
+    padding-top: 28px;
+    padding-bottom: 28px;
+  }
+
   .u-section-7 .u-text-1 {
     margin-right: 0;
   }
 
+  .u-section-7 .u-text-3 {
+    width: auto;
+    margin-top: 78px;
+  }
+
   .u-section-7 .u-text-4 {
-    margin-top: -93px;
+    margin-top: -91px;
+  }
+
+  .u-section-7 .u-text-5 {
+    width: auto;
+    margin-top: 56px;
+  }
+
+  .u-section-7 .u-text-6 {
+    width: auto;
+    margin-top: 16px;
   }
 
   .u-section-7 .u-text-7 {
-    margin-top: 39px;
+    width: auto;
+    margin-top: 32px;
   }
 
   .u-section-7 .u-text-8 {
-    margin-top: 20px;
+    margin-top: 12px;
   }
 }.u-section-8 .u-sheet-1 {
   min-height: 256px;
