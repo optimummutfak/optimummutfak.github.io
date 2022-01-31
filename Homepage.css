@@ -11,12 +11,19 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   text-shadow: 4px 3px 16px rgba(255,255,255,0.4);
-  margin: -376px auto 60px;
+  font-size: 6rem;
+  margin: -402px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
     animation-duration: 2000ms;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
   }
 } .u-section-2 {
   min-height: 251px;
@@ -89,6 +96,7 @@
 
   .u-section-2 .u-text-1 {
     font-size: 2.25rem;
+    margin-top: 34px;
   }
 } .u-section-3 {
   min-height: 862px;
