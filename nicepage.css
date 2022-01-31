@@ -35900,7 +35900,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-layout-cell-1 {
-    min-height: 219px;
+    min-height: 234px;
   }
 
   .u-footer .u-container-layout-1 {
@@ -35912,6 +35912,7 @@ a.u-link.u-text-hover-grey-90:hover {
     height: auto;
     min-height: 137px;
     width: 345px;
+    margin-top: 17px;
     margin-left: auto;
     margin-right: auto;
   }
