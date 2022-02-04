@@ -35701,7 +35701,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -52px 0 0 auto;
+  margin: -52px 0 26px auto;
 }
 
 .u-header .u-file-icon-1 {
@@ -35723,10 +35723,6 @@ a.u-link.u-text-hover-grey-90:hover {
   text-shadow: 2px 2px 8px rgba(128,128,128,1);
 }
 @media (max-width: 1199px) {
-  .u-header .u-sheet-1 {
-    min-height: 91px;
-  }
-
   .u-header .u-image-1 {
     width: 226px;
   }
