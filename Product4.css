@@ -44,7 +44,7 @@
   text-transform: none;
   font-weight: 900;
   font-size: 3rem;
-  margin: 63px 0 0;
+  margin: 92px 0 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -185,7 +185,7 @@
 
   .u-section-1 .u-image-3 {
     height: 258px;
-    margin-top: -302px;
+    margin-top: -307px;
     margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
@@ -210,8 +210,9 @@
 
 .u-section-2 .u-repeater-1 {
   grid-gap: 10px 10px;
-  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
+  grid-template-columns: 100%;
   min-height: 375px;
+  grid-auto-columns: 100%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -223,22 +224,13 @@
   margin: 66px 0 0;
 }
 
-.u-section-2 .u-container-layout-2 {
-  padding: 10px;
-}
-
-.u-section-2 .u-text-3 {
-  font-size: 1.25rem;
-  margin: 66px 0 0;
-}
-
 @media (max-width: 1199px) {
   .u-section-2 .u-list-1 {
     width: 940px;
   }
 
   .u-section-2 .u-repeater-1 {
-    min-height: 309px;
+    grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   }
 }
 
@@ -316,64 +308,6 @@
   border-style: solid;
 }
 
-.u-section-3 .u-table-cell-15 {
-  border-style: solid;
-  font-weight: 700;
-}
-
-.u-section-3 .u-table-cell-16 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-17 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-18 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-19 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-20 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-21 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-22 {
-  border-style: solid;
-  font-weight: 700;
-}
-
-.u-section-3 .u-table-cell-23 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-24 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-25 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-26 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-27 {
-  border-style: solid;
-}
-
-.u-section-3 .u-table-cell-28 {
-  border-style: solid;
-}
-
 @media (max-width: 1199px) {
   .u-section-3 .u-table-1 {
     margin-right: initial;
@@ -393,7 +327,7 @@
 
 .u-section-4 .u-image-1 {
   min-height: 656px;
-  background-image: url("images/charcoil_grill_flayer_1-2_14763950301.png");
+  background-image: url("images/charcoil_oven_flayer_1-2_14763950352.png");
   background-position: 50% 50%;
 }
 
@@ -682,15 +616,16 @@
     margin-top: 21px;
   }
 } .u-section-7 {
-  background-image: none;
+  background-image: url("images/charcoil_oven_flayer_1-2_14763950381.png");
+  background-position: 50% 50%;
 }
 
 .u-section-7 .u-sheet-1 {
-  min-height: 99px;
+  min-height: 550px;
 }
 
 .u-section-7 .u-text-1 {
-  margin-bottom: 21px;
+  margin-bottom: 60px;
   margin-top: 21px;
   text-transform: none;
   font-weight: 900;
@@ -707,7 +642,7 @@
 .u-section-8 .u-list-1 {
   width: 1140px;
   margin-bottom: 60px;
-  margin-top: 30px;
+  margin-top: 45px;
 }
 
 .u-section-8 .u-repeater-1 {
