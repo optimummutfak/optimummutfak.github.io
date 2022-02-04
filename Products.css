@@ -388,6 +388,7 @@
 
 .u-section-3 .u-text-1 {
   font-size: 1.875rem;
+  text-transform: none;
   margin: 20px 46px 0;
 }
 
@@ -405,6 +406,7 @@
 
 .u-section-3 .u-text-2 {
   font-size: 1.875rem;
+  text-transform: none;
   margin: 20px 46px 0;
 }
 
@@ -426,7 +428,6 @@
   .u-section-3 .u-text-1 {
     margin-right: 45px;
     margin-left: 45px;
-    text-transform: none;
   }
 
   .u-section-3 .u-image-2 {
@@ -436,7 +437,6 @@
   .u-section-3 .u-text-2 {
     margin-right: 45px;
     margin-left: 45px;
-    text-transform: none;
   }
 }
 
